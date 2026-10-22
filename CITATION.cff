@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the archived project release. Replace this metadata before publishing."
+title: "Clear Project Title"
+type: software
+authors:
+  - family-names: "Surname"
+    given-names: "Given name"
+repository-code: "https://github.com/SB-Chalmers/research-project-template"
+license: MIT

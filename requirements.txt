@@ -1,0 +1,2 @@
+# Python projects: list direct dependencies and versions needed to reproduce results.
+# If this project does not use Python, remove this file and document its actual environment.
